@@ -1,0 +1,60 @@
+Report for Institution Code UAM, Resource uam_fish
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 7
+Number of records retrieved in searches: 209
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 3
+	Country: Spain ; Times: 1
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-05 ; Times: 1
+	Date: 2015-01-08 ; Times: 1
+	Date: 2015-01-16 ; Times: 3
+	Date: 2015-01-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:1 institutioncode:uam" ; Times: 1
+	Query: ""uam/uam-fish-collection-arctos"" ; Times: 2
+	Query: "2947 institutioncode:UAM" ; Times: 1
+	Query: "specificepithet:clarkii genus:Oncorhynchus" ; Times: 1
+	Query: "fascicularis" ; Times: 1
+	Query: "salvelinus fontinalis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 19
+Total number of records retrieved from searches: 122
+Number of download events that retrieved data from the resource: 0
+Total number of records downloaded: 0
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 26
+Total number of records retrieved from searches: 331
+Number of download events that retrieved data from the resource: 20
+Total number of records downloaded: 158
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
