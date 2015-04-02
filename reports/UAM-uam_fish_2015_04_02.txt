@@ -1,0 +1,57 @@
+Report for Institution Code UAM, Resource uam_fish
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2
+Number of records retrieved in searches: 71
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-26 ; Times: 1
+	Date: 2015-03-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "antimora type:specimen year <= 2000" ; Times: 1
+	Query: "Boreogadus saida" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 2 (out of 298 download events in this period)
+Total number of records downloaded: 26 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 26
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"Oregon" country:"United States" mappable:1" ; Times: 1
+	Query: "stateprovince:"Washington" country:"United States" mappable:1" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 22
+Total number of records retrieved from searches: 195
+Number of download events that retrieved data from the resource: 2
+Total number of records downloaded: 26
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 29
+Total number of records retrieved from searches: 404
+Number of download events that retrieved data from the resource: 22
+Total number of records downloaded: 184
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
