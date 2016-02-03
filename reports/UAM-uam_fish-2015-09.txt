@@ -1,0 +1,61 @@
+Report for Institution Code UAM, Resource uam_fish
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 89
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 11
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-23 ; Times: 1
+	Date: 2015-09-29 ; Times: 1
+	Date: 2015-09-02 ; Times: 1
+	Date: 2015-09-01 ; Times: 1
+	Date: 2015-09-18 ; Times: 1
+	Date: 2015-09-03 ; Times: 1
+	Date: 2015-09-22 ; Times: 2
+	Date: 2015-09-09 ; Times: 1
+	Date: 2015-09-14 ; Times: 1
+	Date: 2015-09-15 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;alaska&#34; recordedby:mccann year &gt;= 1958 year &lt;= 1963" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:mccann year &gt;= 1956 year &lt;= 1963" ; Times: 1
+	Query: "Keku" ; Times: 1
+	Query: "class:osteichthyes media:1" ; Times: 1
+	Query: "catalognumber:6141" ; Times: 1
+	Query: "distance(location,geopoint(54.36775852406841,-171.8701171875))&lt;100000" ; Times: 1
+	Query: "carex" ; Times: 2
+	Query: "stateprovince:&#34;alaska&#34; recordedby:mccann year &gt;= 1960 year &lt;= 1963" ; Times: 1
+	Query: "genus:Oncorhynchus tissue:1" ; Times: 1
+	Query: "Aulorhynchus" ; Times: 1
+	Query: "locality:amchitka stateprovince:&#34;alaska&#34; year &gt;= 1956 year &lt;= 1963" ; Times: 1
+	Query: "catalognumber:5861" ; Times: 1
+	Query: "sagittarius" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1045 download events in this period)
+Total number of records downloaded: 35
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-10 ; Times: 2
+	Date: 2015-09-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Bison bison" ; Times: 2
+	Query: "genus:Percina" ; Times: 1
+
+
+End of report.
