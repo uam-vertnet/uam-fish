@@ -1,0 +1,37 @@
+Report for Institution Code UAM, Resource uam_fish
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 4
+Number of records retrieved in searches: 4
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-22 ; Times: 2
+	Date: 2015-10-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:2835" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; catalognumber:1068 institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; catalognumber:1067 institutioncode:UAM" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 823 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
