@@ -1,0 +1,43 @@
+Report for Institution Code UAM, Resource uam_fish
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 14
+Number of records retrieved in searches: 79
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-09 ; Times: 2
+	Date: 2015-11-24 ; Times: 1
+	Date: 2015-11-12 ; Times: 1
+	Date: 2015-11-20 ; Times: 8
+	Date: 2015-11-14 ; Times: 1
+	Date: 2015-11-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "lycodes adolfi" ; Times: 8
+	Query: "catalognumber:9022" ; Times: 1
+	Query: "alopias" ; Times: 2
+	Query: "specificepithet:crossotus genus:Etropus continent:North America" ; Times: 1
+	Query: "locality:Muir Inlet stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "stomias" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 751 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
