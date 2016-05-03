@@ -1,0 +1,114 @@
+Report for Institution Code UAM, Resource uam_fish
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 38
+Number of records retrieved in searches: 173
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 26
+	Country: Panama ; Times: 8
+	Country: Mexico ; Times: 2
+	Country: Germany ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-08 ; Times: 1
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-03 ; Times: 18
+	Date: 2016-04-14 ; Times: 1
+	Date: 2016-04-18 ; Times: 1
+	Date: 2016-04-19 ; Times: 4
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-16 ; Times: 1
+	Date: 2016-04-22 ; Times: 8
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "AMMODYTIDAE]" ; Times: 1
+	Query: "catalognumber:8359 institutioncode:UAM" ; Times: 2
+	Query: "stateprovince:&#34;alaska&#34; recordedby:davis" ; Times: 1
+	Query: "AMMODYTIDAE" ; Times: 3
+	Query: "GADIDAE" ; Times: 2
+	Query: "catalognumber:7472 institutioncode:UAM" ; Times: 2
+	Query: "1874-08-24" ; Times: 1
+	Query: "catalognumber:8357 institutioncode:UAM" ; Times: 2
+	Query: "UAM 1195" ; Times: 1
+	Query: "1900 Jackson" ; Times: 1
+	Query: "Lagocephalus lagocephalus" ; Times: 1
+	Query: "C 0119" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "catalognumber:6843 institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:6955 institutioncode:UAM" ; Times: 1
+	Query: "catalognumber:8951 institutioncode:UAM" ; Times: 2
+	Query: "catalognumber:8452 institutioncode:UAM" ; Times: 2
+	Query: "stateprovince:&#34;alaska&#34; recordedby:m davis" ; Times: 1
+	Query: "catalognumber:6486 institutioncode:UAM" ; Times: 3
+	Query: "ALOPIAS VULPINUS" ; Times: 1
+	Query: "catalognumber:6580 institutioncode:UAM" ; Times: 2
+	Query: "coregonus" ; Times: 1
+	Query: "ALOPIIDAE" ; Times: 1
+	Query: "catalognumber:8358 institutioncode:UAM" ; Times: 2
+	Query: "AULORHYNCHIDAE" ; Times: 1
+	Query: "octopus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 1312 download events in this period)
+Total number of records downloaded: 8765
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Panama ; Times: 42
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-19 ; Times: 13
+	Date: 2016-04-21 ; Times: 1
+	Date: 2016-04-20 ; Times: 1
+	Date: 2016-04-23 ; Times: 2
+	Date: 2016-04-22 ; Times: 18
+	Date: 2016-04-25 ; Times: 3
+	Date: 2016-04-26 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "SCIAENIDAE" ; Times: 1
+	Query: "SCOMBRIDAE" ; Times: 1
+	Query: "BLENNIIDAE" ; Times: 2
+	Query: "CARANGIDAE" ; Times: 1
+	Query: "CHLOPSIDAE" ; Times: 1
+	Query: "LABRIDAE" ; Times: 1
+	Query: "CHIMAERIDAE" ; Times: 1
+	Query: "CYNOGLOSSIDAE" ; Times: 1
+	Query: "SCORPAENIDAE" ; Times: 1
+	Query: "GADIDAE" ; Times: 2
+	Query: "EMBIOTOCIDAE" ; Times: 1
+	Query: "ACIPENSERIDAE" ; Times: 1
+	Query: "MORIDAE" ; Times: 1
+	Query: "CLINIDAE" ; Times: 1
+	Query: "PLEURONECTIDAE" ; Times: 1
+	Query: "GOBIIDAE" ; Times: 1
+	Query: "KYPHOSIDAE" ; Times: 1
+	Query: "ALOPIIDAE" ; Times: 1
+	Query: "RHINOBATIDAE" ; Times: 1
+	Query: "COTTIDAE" ; Times: 3
+	Query: "BRAMIDAE" ; Times: 1
+	Query: "AMMODYTIDAE" ; Times: 1
+	Query: "SCOMBERESOCIDAE" ; Times: 1
+	Query: "BATRACHOIDIDAE" ; Times: 1
+	Query: "RAJIDAE" ; Times: 1
+	Query: "ARHYNCHOBATIDAE" ; Times: 1
+	Query: "SYNGNATHIDAE" ; Times: 1
+	Query: "TRACHIPTERIDAE" ; Times: 1
+	Query: "GEMPYLIDAE" ; Times: 2
+	Query: "BOTHIDAE" ; Times: 1
+	Query: "SQUALIDAE" ; Times: 1
+	Query: "ATHERINIDAE" ; Times: 1
+	Query: "CLUPEIDAE" ; Times: 2
+	Query: "AULORHYNCHIDAE" ; Times: 1
+	Query: "SPHYRAENIDAE" ; Times: 2
+
+
+End of report.
