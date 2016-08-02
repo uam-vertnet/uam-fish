@@ -1,0 +1,60 @@
+Report for Institution Code UAM, Resource uam_fish
+Usage stats for July 2016, generated on 2016/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 35
+Number of records retrieved in searches: 343
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-11 ; Times: 1
+	Date: 2016-07-13 ; Times: 7
+	Date: 2016-07-27 ; Times: 1
+	Date: 2016-07-07 ; Times: 1
+	Date: 2016-07-22 ; Times: 1
+	Date: 2016-07-19 ; Times: 9
+	Date: 2016-07-08 ; Times: 2
+	Date: 2016-07-29 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:mykiss genus:Oncorhynchus" ; Times: 2
+	Query: "specificepithet:vulpinus genus:Alopias" ; Times: 1
+	Query: "catalognumber:561 institutioncode:UAM" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:brant" ; Times: 9
+	Query: "specificepithet:caurinus genus:Sebastes" ; Times: 1
+	Query: "catalognumber:1215" ; Times: 1
+	Query: "tufted puffin" ; Times: 7
+	Query: "561 institutioncode:UAM" ; Times: 1
+	Query: "specificepithet:fimbria genus:Anoplopoma" ; Times: 1
+	Query: "gbifdatasetid:2f46fe6f-b9fd-4dba-8ca2-2cb1368ceed8" ; Times: 1
+	Query: "specificepithet:productus genus:Merluccius" ; Times: 1
+	Query: "specificepithet:nigricans genus:Girella" ; Times: 1
+	Query: "specificepithet:salar genus:Salmo" ; Times: 1
+	Query: "specificepithet:symmetricus genus:Trachurus" ; Times: 1
+	Query: "specificepithet:affinis genus:Atherinops" ; Times: 1
+	Query: "specificepithet:acanthias genus:Squalus" ; Times: 1
+	Query: "2f46fe6f-b9fd-4dba-8ca2-2cb1368ceed8" ; Times: 1
+	Query: "catalognumber:92 institutioncode:UAM" ; Times: 1
+	Query: "specificepithet:orientalis genus:Thunnus" ; Times: 1
+	Query: "specificepithet:japonicus genus:Scomber" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1219 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
