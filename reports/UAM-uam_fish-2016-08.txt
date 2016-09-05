@@ -1,0 +1,76 @@
+Report for Institution Code UAM, Resource uam_fish
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 56
+Number of records retrieved in searches: 826
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 55
+	Country: Romania ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-15 ; Times: 2
+	Date: 2016-08-16 ; Times: 5
+	Date: 2016-08-17 ; Times: 1
+	Date: 2016-08-25 ; Times: 2
+	Date: 2016-08-19 ; Times: 5
+	Date: 2016-08-26 ; Times: 4
+	Date: 2016-08-21 ; Times: 2
+	Date: 2016-08-20 ; Times: 29
+	Date: 2016-08-23 ; Times: 5
+	Date: 2016-08-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Chondrichthyes type:specimen mappable:1 tissue:1" ; Times: 1
+	Query: "specificepithet:crossotus genus:Etropus" ; Times: 1
+	Query: "ammodytes" ; Times: 1
+	Query: "specificepithet:caurinus genus:Sebastes" ; Times: 1
+	Query: "specificepithet:pacificus genus:Microstomus" ; Times: 4
+	Query: "specificepithet:californicus genus:Paralichthys" ; Times: 1
+	Query: "class:Chondrichthyes type:specimen mappable:1 media:1 tissue:1" ; Times: 1
+	Query: "specificepithet:salar genus:Salmo" ; Times: 1
+	Query: "specificepithet:acanthias genus:Squalus" ; Times: 4
+	Query: "class:Osteichthyes type:specimen mappable:1" ; Times: 1
+	Query: "scientificname:Lota lota country:United States mappable:1" ; Times: 9
+	Query: "specificepithet:melanops genus:Sebastes" ; Times: 1
+	Query: "specificepithet:fimbria genus:Anoplopoma" ; Times: 2
+	Query: "scientificname:Alosa sapidissima country:United States mappable:1" ; Times: 2
+	Query: "specificepithet:productus genus:Merluccius" ; Times: 1
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "wold" ; Times: 2
+	Query: "specificepithet:gigas genus:Dosidicus" ; Times: 2
+	Query: "specificepithet:sapidissima genus:Alosa" ; Times: 1
+	Query: "specificepithet:nigricans genus:Girella" ; Times: 1
+	Query: "specificepithet:affinis genus:Atherinops" ; Times: 2
+	Query: "specificepithet:altivelis genus:Sebastolobus" ; Times: 1
+	Query: "specificepithet:elongatus genus:Sebastes" ; Times: 1
+	Query: "specificepithet:vetulus genus:Parophrys" ; Times: 3
+	Query: "specificepithet:carcharias genus:Carcharodon" ; Times: 2
+	Query: "class:Osteichthyes type:specimen media:1" ; Times: 1
+	Query: "specificepithet:sordidus genus:Citharichthys" ; Times: 1
+	Query: "M-8974" ; Times: 1
+	Query: "specificepithet:japonicus genus:Scomber" ; Times: 2
+	Query: "specificepithet:nigromaculatus genus:Pomoxis" ; Times: 2
+	Query: "specificepithet:rubrivinctus genus:Sebastes" ; Times: 1
+	Query: "specificepithet:orientalis genus:Thunnus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 924 download events in this period)
+Total number of records downloaded: 76
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Austria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Chondrichthyes" ; Times: 1
+
+
+End of report.
