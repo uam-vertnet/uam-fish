@@ -1,0 +1,56 @@
+Report for Institution Code UAM, Resource uam_fish
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 174
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: France ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-24 ; Times: 4
+	Date: 2017-12-23 ; Times: 3
+	Date: 2017-12-22 ; Times: 1
+	Date: 2017-12-04 ; Times: 1
+	Date: 2017-12-15 ; Times: 1
+	Date: 2017-12-11 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Argyropelecus olfersii mappable:1" ; Times: 2
+	Query: "Thymallus arcticus" ; Times: 1
+	Query: "Squalus acanthias mappable:1" ; Times: 1
+	Query: "Lampris guttatus mappable:1" ; Times: 1
+	Query: "Prionace glauca mappable:1" ; Times: 1
+	Query: "wolverine" ; Times: 1
+	Query: "Bathyraja interrupta" ; Times: 1
+	Query: "Bathyraja abyssicola" ; Times: 1
+	Query: "coregonus nasus" ; Times: 1
+	Query: "Clupea harengus mappable:1" ; Times: 1
+	Query: "Limanda limanda mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 674 download events in this period)
+Total number of records downloaded: 153
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-01 ; Times: 1
+	Date: 2017-12-15 ; Times: 1
+	Date: 2017-12-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "kittiwake" ; Times: 1
+	Query: "preparations:egg" ; Times: 1
+	Query: "Thymallus arcticus" ; Times: 1
+
+
+End of report.
