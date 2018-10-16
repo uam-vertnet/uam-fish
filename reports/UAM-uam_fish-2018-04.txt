@@ -1,0 +1,98 @@
+Report for Institution Code UAM, Resource uam_fish
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 42
+Number of records retrieved in searches: 595
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 30
+	Country: Argentina ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 5
+	Date: 2018-04-03 ; Times: 5
+	Date: 2018-04-02 ; Times: 3
+	Date: 2018-04-16 ; Times: 5
+	Date: 2018-04-07 ; Times: 1
+	Date: 2018-04-06 ; Times: 9
+	Date: 2018-04-15 ; Times: 3
+	Date: 2018-04-11 ; Times: 2
+	Date: 2018-04-19 ; Times: 2
+	Date: 2018-04-23 ; Times: 3
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "Salvelinus namaycush" ; Times: 2
+	Query: "scientificname:(Oncorhynchus kisutch) country:United States mappable:1" ; Times: 2
+	Query: "Esox lucius" ; Times: 1
+	Query: "scientificname:(Esox lucius) country:United States mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(68.66109,-149.37047))&lt;50000" ; Times: 1
+	Query: "34929" ; Times: 2
+	Query: "scientificname:(Cottus aleuticus) country:United States mappable:1" ; Times: 1
+	Query: "salvelinus namaycush" ; Times: 1
+	Query: "&#34;Clupea pallasii&#34; hastissue:1" ; Times: 2
+	Query: "distance(location,geopoint(68.62956,-149.61051))&lt;50000" ; Times: 1
+	Query: "Boreogadus saida" ; Times: 1
+	Query: "genus:Catostomus year &gt;= 1956 year &lt;= 1956" ; Times: 1
+	Query: "Sebastes hopkinsi" ; Times: 1
+	Query: "oncorhynchus nerka" ; Times: 1
+	Query: "Sebastes helvomaculatus" ; Times: 3
+	Query: "distance(location,geopoint(68.66975,-149.14302))&lt;50000" ; Times: 1
+	Query: "scientificname:(Salvelinus confluentus) country:United States mappable:1" ; Times: 1
+	Query: "&#34;Oncorhynchus mykiss&#34; hastissue:1" ; Times: 1
+	Query: "genus:Catostomus year &gt;= 1967 year &lt;= 1967" ; Times: 1
+	Query: "sebastes helvomaculatus" ; Times: 2
+	Query: "Oncorhynchus clarkii mappable:1" ; Times: 14
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1359 download events in this period)
+Total number of records downloaded: 973
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Brazil ; Times: 3
+	Country: Argentina ; Times: 7
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-03 ; Times: 7
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-15 ; Times: 7
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "salmo salar" ; Times: 1
+	Query: "oncorhynchus tshawytscha" ; Times: 1
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "Salvelinus namaycush" ; Times: 2
+	Query: "salvelinus namaycush" ; Times: 1
+	Query: "Esox lucius" ; Times: 1
+	Query: "oncorhynchus mykiss" ; Times: 1
+	Query: "revillagigedo" ; Times: 1
+	Query: "distance(location,geopoint(68.66975,-149.14302))&lt;50000" ; Times: 1
+	Query: "(salvelinus fontinalis)" ; Times: 1
+	Query: "distance(location,geopoint(63.88112,-145.75136))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(65.15306,-147.50246))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(68.62956,-149.61051))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(63.87569,-149.21334))&lt;50000" ; Times: 1
+	Query: "Salvelinus fontinalis" ; Times: 1
+	Query: "oncorhynchus nerka" ; Times: 1
+	Query: "distance(location,geopoint(68.66109,-149.37047))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(65.15401,-147.50258))&lt;50000" ; Times: 1
+
+
+End of report.
