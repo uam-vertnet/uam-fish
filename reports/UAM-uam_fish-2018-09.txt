@@ -1,0 +1,75 @@
+Report for Institution Code UAM, Resource uam_fish
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 36
+Number of records retrieved in searches: 3547
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 16
+	Country: United States ; Times: 14
+	Country: Germany ; Times: 1
+	Country: Norway ; Times: 2
+	Country: Canada ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-05 ; Times: 2
+	Date: 2018-09-13 ; Times: 8
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-10 ; Times: 2
+	Date: 2018-09-26 ; Times: 4
+	Date: 2018-09-06 ; Times: 6
+	Date: 2018-09-07 ; Times: 1
+	Date: 2018-09-04 ; Times: 5
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-20 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:(Oncorhynchus tshawytscha) country:United States mappable:1" ; Times: 2
+	Query: "scientificname:(Oncorhynchus nerka) country:United States mappable:1" ; Times: 1
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "Boreogadus saida mappable:1" ; Times: 16
+	Query: "locality:chaun" ; Times: 2
+	Query: "octopus" ; Times: 1
+	Query: "Liparis mucosus" ; Times: 1
+	Query: "Wolverine" ; Times: 1
+	Query: "Sebastes serranoides" ; Times: 1
+	Query: "Salvelinus malma" ; Times: 1
+	Query: "Liparis callyodon" ; Times: 1
+	Query: "scientificname:(Salmo salar) country:United States mappable:1" ; Times: 1
+	Query: "&#34;home&#34; gasterosteus" ; Times: 1
+	Query: "scientificname:(Salvelinus namaycush) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Oncorhynchus gorbuscha) country:United States mappable:1" ; Times: 1
+	Query: "scientificname:(Couesius plumbeus) country:United States mappable:1" ; Times: 1
+	Query: "salvelinus malma" ; Times: 2
+	Query: "scientificname:(Percopsis omiscomaycus) country:United States mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 846 download events in this period)
+Total number of records downloaded: 47
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Norway ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-20 ; Times: 2
+	Date: 2018-09-07 ; Times: 3
+	Date: 2018-09-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Wolverine" ; Times: 3
+	Query: "&#34;Salvelinus alpinus&#34;" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "locality:Anadyr country:&#34;Russia&#34;" ; Times: 1
+	Query: "locality:nome country:&#34;United states&#34; year &lt;= 1920" ; Times: 1
+
+
+End of report.
