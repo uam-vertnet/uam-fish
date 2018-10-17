@@ -1,0 +1,67 @@
+Report for Institution Code UAM, Resource uam_fish
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 88
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: United Kingdom ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-06 ; Times: 4
+	Date: 2018-06-05 ; Times: 13
+	Date: 2018-06-04 ; Times: 2
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-15 ; Times: 1
+	Date: 2018-06-25 ; Times: 2
+	Date: 2018-06-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Alnus" ; Times: 1
+	Query: "Mecklenburg Harbor" ; Times: 1
+	Query: "gadus hasmedia:1" ; Times: 12
+	Query: "wolverine" ; Times: 1
+	Query: "lethenteron alaskense" ; Times: 2
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "Lethenteron alaskense" ; Times: 1
+	Query: "locality:homer stateprovince:&#34;alaska&#34; year &gt;= 1900 year &lt;= 1902" ; Times: 1
+	Query: "chinook salmon" ; Times: 2
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "gadiformes hasmedia:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1169 download events in this period)
+Total number of records downloaded: 1364
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 4
+	Date: 2018-06-06 ; Times: 4
+	Date: 2018-06-05 ; Times: 1
+	Date: 2018-06-04 ; Times: 2
+	Date: 2018-06-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "moose" ; Times: 1
+	Query: "gadus hasmedia:1" ; Times: 1
+	Query: "american bison" ; Times: 1
+	Query: "oregon" ; Times: 1
+	Query: "wolverine" ; Times: 1
+	Query: "puffin" ; Times: 1
+	Query: "sea otter" ; Times: 2
+	Query: "lethenteron alaskense" ; Times: 1
+	Query: "chinook salmon" ; Times: 2
+	Query: "orca" ; Times: 2
+
+
+End of report.
