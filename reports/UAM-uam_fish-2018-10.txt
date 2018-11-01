@@ -1,0 +1,137 @@
+Report for Institution Code UAM, Resource uam_fish
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 142
+Number of records retrieved in searches: 187
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 142
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-26 ; Times: 2
+	Date: 2018-10-24 ; Times: 1
+	Date: 2018-10-09 ; Times: 49
+	Date: 2018-10-18 ; Times: 1
+	Date: 2018-10-10 ; Times: 82
+	Date: 2018-10-15 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:UAM catalognumber:9116" ; Times: 3
+	Query: "institutioncode:UAM catalognumber:9156" ; Times: 1
+	Query: "locality:aleutians stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:8811" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:8814" ; Times: 1
+	Query: "Lampetra tridentata mappable:1" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9819" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:8622" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9327" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9896" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9897" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9899" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9238" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10045" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10043" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10041" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9923" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9567" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9804" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:3298" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10434" ; Times: 4
+	Query: "institutioncode:UAM catalognumber:9038" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:3292" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:3293" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:3290" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:3291" ; Times: 4
+	Query: "institutioncode:UAM catalognumber:3297" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:3294" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:3295" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9648" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9885" ; Times: 3
+	Query: "institutioncode:UAM catalognumber:9347" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10031" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:8931" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9343" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:8935" ; Times: 3
+	Query: "institutioncode:UAM catalognumber:8830" ; Times: 3
+	Query: "institutioncode:UAM catalognumber:9348" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9021" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:3289" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10548" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:3280" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:3283" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:3282" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:3285" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:3284" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:3286" ; Times: 1
+	Query: "Oncorhynchus mykiss gairdneri mappable:1" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:8607" ; Times: 4
+	Query: "institutioncode:UAM catalognumber:9988" ; Times: 1
+	Query: "fish photographs" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9532" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9906" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:8847" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:8842" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10544" ; Times: 1
+	Query: "Syngnathus griseolineatus" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:3299" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9506" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:8859" ; Times: 2
+	Query: "institutioncode:UAM catalognumber:10090" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9919" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10157" ; Times: 7
+	Query: "institutioncode:UAM catalognumber:8998" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10534" ; Times: 2
+	Query: "Syngnathus californiensis californiensis" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9169" ; Times: 4
+	Query: "institutioncode:UAM catalognumber:9207" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9206" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10009" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:8851" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9912" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:3300" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:8862" ; Times: 3
+	Query: "institutioncode:UAM catalognumber:9967" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9172" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9079" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9303" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9577" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9877" ; Times: 1
+	Query: "Syngnathus griseolineatus mappable:1" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9972" ; Times: 4
+	Query: "institutioncode:UAM catalognumber:10073" ; Times: 1
+	Query: "Syngnathus leptorhynchus mappable:1" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9462" ; Times: 4
+	Query: "institutioncode:UAM catalognumber:9464" ; Times: 1
+	Query: "Syngnathus californiensis" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9548" ; Times: 4
+	Query: "institutioncode:UAM catalognumber:8801" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:10354" ; Times: 4
+	Query: "institutioncode:UAM catalognumber:9090" ; Times: 1
+	Query: "canada thistle" ; Times: 1
+	Query: "Syngnathus leptorhynchus" ; Times: 1
+	Query: "institutioncode:UAM catalognumber:9868" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1300 download events in this period)
+Total number of records downloaded: 27
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-08 ; Times: 1
+	Date: 2018-10-16 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "brachyistius frenatus" ; Times: 1
+	Query: "paulson" ; Times: 1
+	Query: "Paulson" ; Times: 1
+
+
+End of report.
