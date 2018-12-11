@@ -1,0 +1,170 @@
+Report for Institution Code UAM, Resource uam_fish
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 154
+Number of records retrieved in searches: 2271
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 49
+	Country: Canada ; Times: 2
+	Country: Austria ; Times: 2
+	Country: Italy ; Times: 12
+	Country: Unknown ; Times: 89
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-23 ; Times: 12
+	Date: 2018-11-09 ; Times: 2
+	Date: 2018-11-07 ; Times: 1
+	Date: 2018-11-05 ; Times: 4
+	Date: 2018-11-13 ; Times: 1
+	Date: 2018-11-02 ; Times: 1
+	Date: 2018-11-25 ; Times: 40
+	Date: 2018-11-27 ; Times: 8
+	Date: 2018-11-26 ; Times: 21
+	Date: 2018-11-30 ; Times: 43
+	Date: 2018-11-28 ; Times: 21
+
+List of queries that retrieved data from the resource: 
+	Query: "Eumicrotremus derjugini mappable:1" ; Times: 1
+	Query: "Eleginus gracilis mappable:1" ; Times: 1
+	Query: "Careproctus furcellus mappable:1" ; Times: 1
+	Query: "Aristostomias scintillans mappable:1" ; Times: 1
+	Query: "Anoplagonus inermis mappable:1" ; Times: 1
+	Query: "Bryozoichthys lysimus mappable:1" ; Times: 1
+	Query: "Enophrys lucasi mappable:1" ; Times: 1
+	Query: "specificepithet:salar genus:salmo mappable:1" ; Times: 11
+	Query: "Careproctus ostentum mappable:1" ; Times: 1
+	Query: "tshawytscha stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Anarhichas orientalis mappable:1" ; Times: 1
+	Query: "Enophrys bison mappable:1" ; Times: 1
+	Query: "Cottunculus microps mappable:1" ; Times: 1
+	Query: "Chirolophis decoratus mappable:1" ; Times: 1
+	Query: "Eptatretus stoutii mappable:1" ; Times: 1
+	Query: "Bothrocara molle mappable:1" ; Times: 1
+	Query: "Clupea harengus mappable:1" ; Times: 3
+	Query: "Brama japonica mappable:1" ; Times: 1
+	Query: "specificepithet:glauca genus:prionace mappable:1" ; Times: 1
+	Query: "Bathyagonus pentacanthus mappable:1" ; Times: 1
+	Query: "Eptatretus deani mappable:1" ; Times: 1
+	Query: "Canada Jay" ; Times: 2
+	Query: "Albatrossia pectoralis mappable:1" ; Times: 1
+	Query: "specificepithet:vulpinus genus:alopias mappable:1" ; Times: 1
+	Query: "specificepithet:tshawytscha genus:oncorhynchus family:salmonidae stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Chirolophis nugator mappable:1" ; Times: 1
+	Query: "specificepithet:coenosus genus:pleuronichthys mappable:1" ; Times: 1
+	Query: "Chesnonia verrucosa mappable:1" ; Times: 1
+	Query: "Citharichthys stigmaeus mappable:1" ; Times: 1
+	Query: "Antimora microlepis mappable:1" ; Times: 1
+	Query: "Atheresthes stomias mappable:1" ; Times: 1
+	Query: "Alopias vulpinus mappable:1" ; Times: 1
+	Query: "specificepithet:mykiss genus:onchorynchus mappable:1" ; Times: 1
+	Query: "Bathymaster caeruleofasciatus mappable:1" ; Times: 1
+	Query: "Bathyraja parmifera mappable:1" ; Times: 1
+	Query: "Aptocyclus ventricosus mappable:1" ; Times: 1
+	Query: "specificepithet:mykiss genus:oncorhynchus mappable:1" ; Times: 2
+	Query: "Cryptacanthodes giganteus mappable:1" ; Times: 1
+	Query: "Artediellus atlanticus mappable:1" ; Times: 1
+	Query: "Acipenser medirostris mappable:1" ; Times: 1
+	Query: "specificepithet:mykiss genus:oncorhynchus hastissue:1" ; Times: 1
+	Query: "Bathylagus pacificus mappable:1" ; Times: 1
+	Query: "Ammodytes hexapterus mappable:1" ; Times: 1
+	Query: "Chitonotus pugetensis mappable:1" ; Times: 1
+	Query: "Cololabis saira mappable:1" ; Times: 1
+	Query: "Bathyagonus alascanus mappable:1" ; Times: 1
+	Query: "Caristius macropus mappable:1" ; Times: 1
+	Query: "Benthalbella dentata mappable:1" ; Times: 1
+	Query: "specificepithet:sagax genus:sardinops mappable:1" ; Times: 6
+	Query: "Atherinops affinis mappable:1" ; Times: 1
+	Query: "Coregonus lavaretus mappable:1" ; Times: 1
+	Query: "Artedius lateralis mappable:1" ; Times: 1
+	Query: "genus:Entosphenus" ; Times: 1
+	Query: "Careproctus cypselurus mappable:1" ; Times: 1
+	Query: "Citharichthys sordidus mappable:1" ; Times: 1
+	Query: "Esox lucius mappable:1" ; Times: 1
+	Query: "specificepithet:entomelas genus:sebastes mappable:1" ; Times: 1
+	Query: "Bathymaster leurolepis mappable:1" ; Times: 1
+	Query: "Bothrocara pusillum mappable:1" ; Times: 1
+	Query: "Alosa sapidissima mappable:1" ; Times: 1
+	Query: "Eumicrotremus gyrinops mappable:1" ; Times: 1
+	Query: "specificepithet:gigas genus:dosidicus mappable:1" ; Times: 1
+	Query: "Anarrhichthys ocellatus mappable:1" ; Times: 1
+	Query: "specificepithet:xanthostigma genus:citharichthys mappable:1" ; Times: 1
+	Query: "Artediellus pacificus mappable:1" ; Times: 1
+	Query: "Eumicrotremus phrynoides mappable:1" ; Times: 1
+	Query: "Bathyraja aleutica mappable:1" ; Times: 1
+	Query: "Bathymaster signatus mappable:1" ; Times: 1
+	Query: "Eumicrotremus orbis mappable:1" ; Times: 1
+	Query: "Bathyraja abyssicola mappable:1" ; Times: 1
+	Query: "Acantholumpenus mackayi mappable:1" ; Times: 1
+	Query: "Artediellus uncinatus mappable:1" ; Times: 1
+	Query: "Agonopsis vulsa mappable:1" ; Times: 1
+	Query: "Dasycottus setiger mappable:1" ; Times: 1
+	Query: "lions" ; Times: 2
+	Query: "Bathyagonus nigripinnis mappable:1" ; Times: 1
+	Query: "Bothrocara brunneum mappable:1" ; Times: 1
+	Query: "Careproctus reinhardti mappable:1" ; Times: 1
+	Query: "Eumesogrammus praecisus mappable:1" ; Times: 1
+	Query: "Cryptacanthodes aleutensis mappable:1" ; Times: 1
+	Query: "Anoplopoma fimbria mappable:1" ; Times: 1
+	Query: "specificepithet:japonicus genus:scomber mappable:1" ; Times: 2
+	Query: "Anarhichas denticulatus mappable:1" ; Times: 1
+	Query: "Bathylychnops exilis mappable:1" ; Times: 1
+	Query: "Amblyraja hyperborea mappable:1" ; Times: 1
+	Query: "Bryozoichthys marjorius mappable:1" ; Times: 1
+	Query: "specificepithet:lucius genus:esox mappable:1" ; Times: 7
+	Query: "specificepithet:symmetricus genus:trachurus mappable:1" ; Times: 2
+	Query: "Boreogadus saida mappable:1" ; Times: 1
+	Query: "Chirolophis snyderi mappable:1" ; Times: 1
+	Query: "Blepsias bilobus mappable:1" ; Times: 1
+	Query: "Cymatogaster aggregata mappable:1" ; Times: 1
+	Query: "Brama brama mappable:1" ; Times: 1
+	Query: "Citharichthys xanthostigma mappable:1" ; Times: 1
+	Query: "specificepithet:orientalis genus:thunnus mappable:1" ; Times: 1
+	Query: "Bathophilus flemingi mappable:1" ; Times: 1
+	Query: "Bathyraja trachura mappable:1" ; Times: 1
+	Query: "Coryphaenoides acrolepis mappable:1" ; Times: 1
+	Query: "Dentex dentex mappable:1" ; Times: 1
+	Query: "Clupea pallasii mappable:1" ; Times: 1
+	Query: "Argyropelecus lychnus mappable:1" ; Times: 1
+	Query: "Enophrys diceraus mappable:1" ; Times: 1
+	Query: "specificepithet:fimbria genus:anoplopoma mappable:1" ; Times: 1
+	Query: "Careproctus melanurus mappable:1" ; Times: 1
+	Query: "Aspidophoroides olrikii mappable:1" ; Times: 1
+	Query: "Careproctus rastrinus mappable:1" ; Times: 1
+	Query: "Eopsetta jordani mappable:1" ; Times: 1
+	Query: "specificepithet:argentea genus:sphyraena mappable:1" ; Times: 1
+	Query: "Eurymen gyrinus mappable:1" ; Times: 1
+	Query: "Alepisaurus ferox mappable:1" ; Times: 1
+	Query: "Careproctus colletti mappable:1" ; Times: 1
+	Query: "Aulorhynchus flavidus mappable:1" ; Times: 1
+	Query: "Eumicrotremus andriashevi mappable:1" ; Times: 1
+	Query: "Gadus macrocephalus mappable:1" ; Times: 1
+	Query: "Ceratias holboelli mappable:1" ; Times: 1
+	Query: "specificepithet:rhina genus:raja mappable:1" ; Times: 1
+	Query: "Embassichthys bathybius mappable:1" ; Times: 1
+	Query: "Argyropelecus olfersii mappable:1" ; Times: 1
+	Query: "Anisarchus medius mappable:1" ; Times: 1
+	Query: "specificepithet:productus genus:merluccius mappable:1" ; Times: 1
+	Query: "tshawytscha" ; Times: 2
+	Query: "Coryphaenoides cinereus mappable:1" ; Times: 1
+	Query: "Clinocottus acuticeps mappable:1" ; Times: 1
+	Query: "Bathyraja interrupta mappable:1" ; Times: 1
+	Query: "specificepithet:carcharias genus:carcharodon mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1719 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
