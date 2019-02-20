@@ -1,0 +1,56 @@
+Report for Institution Code UAM, Resource uam_fish
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 18
+Number of records retrieved in searches: 226
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: France ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 1
+	Date: 2019-01-07 ; Times: 1
+	Date: 2019-01-15 ; Times: 1
+	Date: 2019-01-23 ; Times: 2
+	Date: 2019-01-31 ; Times: 6
+	Date: 2019-01-24 ; Times: 1
+	Date: 2019-01-30 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "15059" ; Times: 1
+	Query: "Myoxocephalus scorpioides mappable:1" ; Times: 2
+	Query: "Canada Jay" ; Times: 1
+	Query: "anoplopoma fimbria" ; Times: 1
+	Query: "Alopias vulpinus mappable:1" ; Times: 4
+	Query: "Salmo salar mappable:1" ; Times: 2
+	Query: "Esox lucius" ; Times: 1
+	Query: "Anarrhichthys ocellatus" ; Times: 1
+	Query: "Sardinops sagax" ; Times: 1
+	Query: "Clupea harengus mappable:1" ; Times: 1
+	Query: "Osmerus eperlanus mappable:1" ; Times: 2
+	Query: "Myoxocephalus scorpius mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 962 download events in this period)
+Total number of records downloaded: 1
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "carcharodon carcharias" ; Times: 1
+
+
+End of report.
