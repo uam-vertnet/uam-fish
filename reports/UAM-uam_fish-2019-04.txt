@@ -1,0 +1,57 @@
+Report for Institution Code UAM, Resource uam_fish
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 419
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Switzerland ; Times: 1
+	Country: Norway ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-12 ; Times: 1
+	Date: 2019-04-11 ; Times: 2
+	Date: 2019-04-04 ; Times: 2
+	Date: 2019-04-27 ; Times: 2
+	Date: 2019-04-02 ; Times: 3
+	Date: 2019-04-03 ; Times: 1
+	Date: 2019-04-29 ; Times: 1
+	Date: 2019-04-09 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "47737" ; Times: 1
+	Query: "catalognumber:493 institutioncode:UAM" ; Times: 1
+	Query: "Boreogadus saida mappable:1" ; Times: 2
+	Query: "ceratias" ; Times: 1
+	Query: "10313" ; Times: 1
+	Query: "catalognumber:1327" ; Times: 1
+	Query: "Wilder AND Island" ; Times: 1
+	Query: "bearded seal" ; Times: 1
+	Query: "catalognumber:1297" ; Times: 2
+	Query: "Clupea harengus mappable:1" ; Times: 2
+	Query: "psychrolutes phrictus" ; Times: 1
+	Query: "class:Malacostraca" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1263 download events in this period)
+Total number of records downloaded: 10
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sebastolobus alascanus" ; Times: 1
+
+
+End of report.
