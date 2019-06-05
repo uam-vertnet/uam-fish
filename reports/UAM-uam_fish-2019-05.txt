@@ -1,0 +1,81 @@
+Report for Institution Code UAM, Resource uam_fish
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 64
+Number of records retrieved in searches: 344
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Italy ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 4
+	Country: United States ; Times: 41
+	Country: New Zealand ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 3
+	Date: 2019-05-21 ; Times: 4
+	Date: 2019-05-20 ; Times: 4
+	Date: 2019-05-23 ; Times: 2
+	Date: 2019-05-22 ; Times: 1
+	Date: 2019-05-02 ; Times: 2
+	Date: 2019-05-06 ; Times: 17
+	Date: 2019-05-12 ; Times: 1
+	Date: 2019-05-14 ; Times: 1
+	Date: 2019-05-15 ; Times: 1
+	Date: 2019-05-16 ; Times: 20
+	Date: 2019-05-17 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Hydrolagus colliei" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; catalognumber:2680 institutioncode:UAM" ; Times: 1
+	Query: "scientificname:(Oncorhynchus tshawytscha) country:United States mappable:1" ; Times: 2
+	Query: "Raja rhina" ; Times: 1
+	Query: "scientificname:(Oncorhynchus gorbuscha) country:United States mappable:1" ; Times: 1
+	Query: "squalus acanthias year &gt;= 1950 year &lt;= 2019" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; catalognumber:2680 year &gt;= 1974 year &lt;= 1977 institutioncode:UAM" ; Times: 1
+	Query: "V 1653" ; Times: 1
+	Query: "Salvelinus confluentus" ; Times: 30
+	Query: "scientificname:(Salmo salar) country:United States mappable:1" ; Times: 1
+	Query: "Bathyraja abyssicola" ; Times: 1
+	Query: "scientificname:(Oncorhynchus nerka) country:United States mappable:1" ; Times: 1
+	Query: "Raja inornata" ; Times: 1
+	Query: "Eucyclogobius newberryi" ; Times: 2
+	Query: "Raja stellulata" ; Times: 1
+	Query: "Kokanee" ; Times: 1
+	Query: "Bathyraja parmifera" ; Times: 1
+	Query: "Prionace glauca" ; Times: 2
+	Query: "Squalus acanthias" ; Times: 1
+	Query: "Alopias vulpinus" ; Times: 1
+	Query: "Hexagrammos lagocephalus" ; Times: 1
+	Query: "Bathyraja aleutica" ; Times: 1
+	Query: "Lampris guttatus mappable:1" ; Times: 1
+	Query: "Bathyraja interrupta" ; Times: 1
+	Query: "Prionace glauca mappable:1" ; Times: 2
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "scientificname:(Salvelinus namaycush) country:United States mappable:1" ; Times: 1
+	Query: "Amblyraja hyperborea" ; Times: 1
+	Query: "sebastes reedi" ; Times: 1
+	Query: "Bathyraja trachura" ; Times: 1
+	Query: "Somniosus pacificus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 940 download events in this period)
+Total number of records downloaded: 3
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Italy ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "squalus acanthias year &gt;= 1950 year &lt;= 2019" ; Times: 1
+
+
+End of report.
