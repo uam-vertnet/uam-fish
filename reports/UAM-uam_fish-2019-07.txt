@@ -1,0 +1,66 @@
+Report for Institution Code UAM, Resource uam_fish
+Usage stats for July 2019, generated on 2019/08/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 35
+Number of records retrieved in searches: 375
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Canada ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-08 ; Times: 15
+	Date: 2019-07-10 ; Times: 7
+	Date: 2019-07-11 ; Times: 3
+	Date: 2019-07-07 ; Times: 2
+	Date: 2019-07-06 ; Times: 7
+	Date: 2019-07-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Cottus specificepithet:aleuticus" ; Times: 1
+	Query: "genus:Osmerus specificepithet:eperlanus" ; Times: 1
+	Query: "Raja rhina" ; Times: 2
+	Query: "gbifdatasetid:2f46fe6f-b9fd-4dba-8ca2-2cb1368ceed8" ; Times: 1
+	Query: "genus:Sigmops specificepithet:gracilis" ; Times: 1
+	Query: "genus:Spirinchus specificepithet:thaleichthys" ; Times: 1
+	Query: "genus:Hypomesus specificepithet:olidus" ; Times: 1
+	Query: "genus:Mallotus specificepithet:villosus" ; Times: 1
+	Query: "genus:Lipariscus specificepithet:nanus" ; Times: 1
+	Query: "genus:Osmerus specificepithet:mordax" ; Times: 1
+	Query: "genus:Bothragonus specificepithet:swanii" ; Times: 1
+	Query: "Salvelinus confluentus" ; Times: 2
+	Query: "Bathyraja abyssicola" ; Times: 8
+	Query: "country:&#34;Canada&#34; institutioncode:UAM" ; Times: 1
+	Query: "Raja stellulata" ; Times: 2
+	Query: "genus:Cottus specificepithet:gulosus" ; Times: 1
+	Query: "genus:Cottus specificepithet:asper" ; Times: 1
+	Query: "Bathyraja aleutica" ; Times: 3
+	Query: "genus:Scytalina specificepithet:cerdale" ; Times: 1
+	Query: "Amblyraja hyperborea" ; Times: 2
+	Query: "Bathyraja trachura" ; Times: 1
+	Query: "genus:Cottus specificepithet:cognatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 985 download events in this period)
+Total number of records downloaded: 6
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 2
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-07-03 ; Times: 1
+	Date: 2019-07-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;Russia&#34;" ; Times: 1
+	Query: "(walrus) institutioncode:UAM" ; Times: 2
+
+
+End of report.
