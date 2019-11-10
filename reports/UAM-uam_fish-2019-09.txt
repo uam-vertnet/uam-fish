@@ -1,0 +1,63 @@
+Report for Institution Code UAM, Resource uam_fish
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 33
+Number of records retrieved in searches: 1569
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Belgium ; Times: 7
+	Country: France ; Times: 17
+	Country: United Kingdom ; Times: 1
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-03 ; Times: 1
+	Date: 2019-09-10 ; Times: 19
+	Date: 2019-09-11 ; Times: 7
+	Date: 2019-09-27 ; Times: 1
+	Date: 2019-09-24 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Eumicrotremus gyrinops mappable:1" ; Times: 1
+	Query: "Sphyraena argentea mappable:1" ; Times: 1
+	Query: "Lions" ; Times: 3
+	Query: "Crystallichthys cyclospilus mappable:1" ; Times: 1
+	Query: "Hemilepidotus spinosus mappable:1" ; Times: 1
+	Query: "Odontopyxis trispinosa mappable:1" ; Times: 1
+	Query: "Icelus spiniger mappable:1" ; Times: 1
+	Query: "Salvelinus confluentus" ; Times: 2
+	Query: "Entosphenus tridentatus mappable:1" ; Times: 1
+	Query: "Chinook salmon" ; Times: 1
+	Query: "Sebastes polyspinis mappable:1" ; Times: 1
+	Query: "catalognumber:5841" ; Times: 1
+	Query: "Coregonus lavaretus mappable:1" ; Times: 1
+	Query: "Bathyagonus infraspinatus mappable:1" ; Times: 1
+	Query: "Boreogadus saida mappable:1" ; Times: 7
+	Query: "palustris Potentilla" ; Times: 1
+	Query: "47798" ; Times: 1
+	Query: "Sebastes brevispinis mappable:1" ; Times: 1
+	Query: "Radulinus asprellus mappable:1" ; Times: 1
+	Query: "Jordania zonope mappable:1" ; Times: 1
+	Query: "Sebastes paucispinis mappable:1" ; Times: 1
+	Query: "Aspidophoroides monopterygius mappable:1" ; Times: 1
+	Query: "Clupea pallasii pallasii mappable:1" ; Times: 1
+	Query: "Careproctus gilberti mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1073 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
