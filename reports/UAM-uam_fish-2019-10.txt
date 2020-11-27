@@ -1,0 +1,73 @@
+Report for Institution Code UAM, Resource uam_fish
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 54
+Number of records retrieved in searches: 165
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Unknown ; Times: 5
+	Country: New Zealand ; Times: 28
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 15
+	Date: 2019-10-25 ; Times: 3
+	Date: 2019-10-24 ; Times: 16
+	Date: 2019-10-12 ; Times: 10
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-28 ; Times: 2
+	Date: 2019-10-30 ; Times: 5
+	Date: 2019-10-07 ; Times: 1
+	Date: 2019-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "UAM 7422" ; Times: 3
+	Query: "Hydrolagus colliei" ; Times: 2
+	Query: "specificepithet:borealis stateprovince:&#34;alaska&#34; year &gt;= 1966 year &lt;= 1966" ; Times: 1
+	Query: "Raja rhina" ; Times: 2
+	Query: "10109" ; Times: 1
+	Query: "asper Cottus" ; Times: 2
+	Query: "13267" ; Times: 3
+	Query: "Bathyraja abyssicola" ; Times: 1
+	Query: "Raja inornata" ; Times: 2
+	Query: "Raja stellulata" ; Times: 2
+	Query: "UAM 7794" ; Times: 1
+	Query: "Alopias" ; Times: 1
+	Query: "UAM 7792" ; Times: 2
+	Query: "UAM 7793" ; Times: 2
+	Query: "Bathyraja parmifera" ; Times: 2
+	Query: "Prionace glauca" ; Times: 2
+	Query: "Squalus acanthias" ; Times: 2
+	Query: "Alopias vulpinus" ; Times: 2
+	Query: "catalognumber:2482" ; Times: 2
+	Query: "Bathyraja aleutica" ; Times: 2
+	Query: "palustris Potentilla" ; Times: 3
+	Query: "UAM 7871" ; Times: 2
+	Query: "Bathyraja interrupta" ; Times: 2
+	Query: "catalognumber:1459" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 2
+	Query: "Amblyraja hyperborea" ; Times: 2
+	Query: "Bathyraja trachura" ; Times: 1
+	Query: "Somniosus pacificus" ; Times: 2
+	Query: "(5000) institutioncode:UAM" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 1 (out of 1308 download events in this period)
+Total number of records downloaded: 4
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sardinops sagax" ; Times: 1
+
+
+End of report.
