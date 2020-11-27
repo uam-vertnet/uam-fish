@@ -1,0 +1,128 @@
+Report for Institution Code UAM, Resource uam_fish
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 404
+Number of records retrieved in searches: 16979
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: United Kingdom ; Times: 396
+	Country: Canada ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-13 ; Times: 1
+	Date: 2020-04-03 ; Times: 23
+	Date: 2020-04-07 ; Times: 46
+	Date: 2020-04-14 ; Times: 1
+	Date: 2020-04-21 ; Times: 22
+	Date: 2020-04-01 ; Times: 1
+	Date: 2020-04-02 ; Times: 1
+	Date: 2020-04-25 ; Times: 1
+	Date: 2020-04-29 ; Times: 1
+	Date: 2020-04-08 ; Times: 307
+
+List of queries that retrieved data from the resource: 
+	Query: "Leptocottus armatus" ; Times: 5
+	Query: "Mallotus villosus" ; Times: 5
+	Query: "Salmo salar" ; Times: 5
+	Query: "Hypomesus pretiosus" ; Times: 5
+	Query: "Lethenteron camtschaticum" ; Times: 2
+	Query: "Lepidopsetta bilineata" ; Times: 5
+	Query: "Blepsias cirrhosus" ; Times: 3
+	Query: "Thymallus thymallus" ; Times: 7
+	Query: "Esox lucius" ; Times: 10
+	Query: "Limanda limanda" ; Times: 5
+	Query: "Oncorhynchus gorbuscha" ; Times: 8
+	Query: "Triglops scepticus" ; Times: 5
+	Query: "Enophrys diceraus" ; Times: 5
+	Query: "Glyptocephalus zachirus" ; Times: 5
+	Query: "Isopsetta isolepis" ; Times: 5
+	Query: "Hypomesus olidus" ; Times: 5
+	Query: "Oncorhynchus nerka" ; Times: 8
+	Query: "(10009)" ; Times: 1
+	Query: "Myoxocephalus stelleri" ; Times: 5
+	Query: "Parophrys vetulus" ; Times: 5
+	Query: "salmo salar" ; Times: 1
+	Query: "Microcottus sellaris" ; Times: 5
+	Query: "Pholis ornata" ; Times: 5
+	Query: "Oncorhynchus tshawytscha" ; Times: 5
+	Query: "Coregonus lavaretus" ; Times: 5
+	Query: "Eurymen gyrinus" ; Times: 5
+	Query: "Cottus aleuticus" ; Times: 7
+	Query: "Oncorhynchus clarkii" ; Times: 8
+	Query: "Platichthys stellatus" ; Times: 4
+	Query: "wolverine" ; Times: 2
+	Query: "Myoxocephalus scorpius" ; Times: 8
+	Query: "Gymnocanthus tricuspis" ; Times: 8
+	Query: "Lepidopsetta polyxystra" ; Times: 5
+	Query: "Stenodus leucichthys" ; Times: 5
+	Query: "Gadus chalcogrammus" ; Times: 5
+	Query: "Salvelinus confluentus" ; Times: 5
+	Query: "Gymnocanthus herzensteini" ; Times: 5
+	Query: "Myoxocephalus jaok" ; Times: 8
+	Query: "Enophrys bison" ; Times: 5
+	Query: "Radulinus asprellus" ; Times: 5
+	Query: "Thaleichthys pacificus" ; Times: 5
+	Query: "Couesius plumbeus" ; Times: 2
+	Query: "Cottunculus microps" ; Times: 3
+	Query: "scientificname:(Coregonus clupeaformis) country:United States mappable:1" ; Times: 1
+	Query: "catalognumber:7347" ; Times: 1
+	Query: "Osmerus mordax" ; Times: 5
+	Query: "Myoxocephalus quadricornis" ; Times: 8
+	Query: "Eumesogrammus praecisus" ; Times: 4
+	Query: "353 HOFFMAN" ; Times: 1
+	Query: "Clupea harengus" ; Times: 5
+	Query: "Pleuronectes quadrituberculatus" ; Times: 5
+	Query: "Microstomus pacificus" ; Times: 5
+	Query: "Pungitius pungitius" ; Times: 14
+	Query: "Hippoglossoides elassodon" ; Times: 5
+	Query: "Merluccius merluccius" ; Times: 6
+	Query: "Cottus asper" ; Times: 10
+	Query: "Merluccius productus" ; Times: 6
+	Query: "LOPEZ-W 1261" ; Times: 1
+	Query: "Psettichthys melanostictus" ; Times: 5
+	Query: "Limanda aspera" ; Times: 5
+	Query: "Oncorhynchus keta" ; Times: 8
+	Query: "Clupea pallasii" ; Times: 5
+	Query: "Salvelinus alpinus" ; Times: 5
+	Query: "Spirinchus thaleichthys" ; Times: 5
+	Query: "Myoxocephalus polyacanthocephalus" ; Times: 5
+	Query: "Oncorhynchus kisutch" ; Times: 8
+	Query: "Thymallus arcticus" ; Times: 7
+	Query: "Cottus cognatus" ; Times: 7
+	Query: "Trachurus symmetricus" ; Times: 5
+	Query: "Osmerus eperlanus" ; Times: 5
+	Query: "Gasterosteus aculeatus" ; Times: 14
+	Query: "catalognumber:6129" ; Times: 1
+	Query: "Prosopium coulterii" ; Times: 2
+	Query: "Coregonus sardinella" ; Times: 5
+	Query: "Limanda sakhalinensis" ; Times: 5
+	Query: "Salvelinus malma" ; Times: 5
+	Query: "Coregonus clupeaformis" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1171 download events in this period)
+Total number of records downloaded: 110
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Lithuania ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-20 ; Times: 1
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "locality:unknown stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+
+
+End of report.
