@@ -1,0 +1,72 @@
+Report for Institution Code UAM, Resource uam_fish
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 111
+Number of records retrieved in searches: 3294
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: United Kingdom ; Times: 96
+	Country: Mexico ; Times: 1
+	Country: Peru ; Times: 1
+	Country: France ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-26 ; Times: 4
+	Date: 2020-06-08 ; Times: 3
+	Date: 2020-06-15 ; Times: 10
+	Date: 2020-06-29 ; Times: 2
+	Date: 2020-06-04 ; Times: 1
+	Date: 2020-06-05 ; Times: 3
+	Date: 2020-06-11 ; Times: 39
+	Date: 2020-06-03 ; Times: 1
+	Date: 2020-06-10 ; Times: 40
+	Date: 2020-06-17 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Coregonus sardinella" ; Times: 6
+	Query: "Salmo salar" ; Times: 9
+	Query: "Gasterosteus aculeatus" ; Times: 11
+	Query: "catalognumber:2456 institutioncode:UAM" ; Times: 1
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "Coregonus lavaretus" ; Times: 6
+	Query: "RT 318" ; Times: 1
+	Query: "Scomber japonicus" ; Times: 6
+	Query: "Cottus cognatus" ; Times: 6
+	Query: "Clupea harengus" ; Times: 11
+	Query: "Esox lucius" ; Times: 8
+	Query: "Cottus aleuticus" ; Times: 6
+	Query: "institutioncode:UAM 7812" ; Times: 2
+	Query: "catalognumber:7409 institutioncode:UAM" ; Times: 2
+	Query: "Pungitius pungitius" ; Times: 9
+	Query: "Coregonus clupeaformis" ; Times: 6
+	Query: "Cottus asper" ; Times: 6
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "Salvelinus malma" ; Times: 6
+	Query: "UAM 7409" ; Times: 1
+	Query: "Stenodus leucichthys" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 474 download events in this period)
+Total number of records downloaded: 883
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-05 ; Times: 1
+	Date: 2020-06-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sea otter" ; Times: 1
+	Query: "oncorhynchus kisutch" ; Times: 1
+	Query: "salmoninae" ; Times: 1
+
+
+End of report.
