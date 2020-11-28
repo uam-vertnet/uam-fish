@@ -1,0 +1,99 @@
+Report for Institution Code UAM, Resource uam_fish
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 73
+Number of records retrieved in searches: 1389
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: United Kingdom ; Times: 37
+	Country: Austria ; Times: 2
+	Country: France ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-23 ; Times: 1
+	Date: 2020-10-22 ; Times: 1
+	Date: 2020-10-21 ; Times: 2
+	Date: 2020-10-19 ; Times: 4
+	Date: 2020-10-26 ; Times: 6
+	Date: 2020-10-24 ; Times: 4
+	Date: 2020-10-12 ; Times: 2
+	Date: 2020-10-13 ; Times: 37
+	Date: 2020-10-06 ; Times: 5
+	Date: 2020-10-31 ; Times: 1
+	Date: 2020-10-17 ; Times: 3
+	Date: 2020-10-20 ; Times: 4
+	Date: 2020-10-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Leptocottus armatus" ; Times: 1
+	Query: "Lagocephalus lagocephalus mappable:1" ; Times: 1
+	Query: "Salmo salar" ; Times: 1
+	Query: "Eleginus gracilis" ; Times: 1
+	Query: "Myoxocephalus stelleri" ; Times: 1
+	Query: "Apodichthys flavidus" ; Times: 1
+	Query: "Microcottus sellaris" ; Times: 1
+	Query: "Muticus" ; Times: 1
+	Query: "Scomber japonicus" ; Times: 2
+	Query: "Triglops scepticus" ; Times: 1
+	Query: "mappable:1 scientificname:Prionace glauca" ; Times: 3
+	Query: "vntype:specimen family:Catostomidae hastissue:1" ; Times: 2
+	Query: "Enophrys bison" ; Times: 1
+	Query: "Malacocottus zonurus" ; Times: 1
+	Query: "Coregonus clupeaformis" ; Times: 1
+	Query: "Eumesogrammus praecisus" ; Times: 1
+	Query: "Megalocottus platycephalus" ; Times: 1
+	Query: "Thunnus orientalis" ; Times: 1
+	Query: "Myoxocephalus quadricornis" ; Times: 1
+	Query: "Oncorhynchus tshawytscha" ; Times: 1
+	Query: "Coregonus lavaretus" ; Times: 1
+	Query: "Eurymen gyrinus" ; Times: 1
+	Query: "Myoxocephalus scorpius" ; Times: 1
+	Query: "Gymnocanthus tricuspis" ; Times: 1
+	Query: "Sardinops sagax" ; Times: 2
+	Query: "scientificname:(Prosopium cylindraceum) country:United States mappable:1" ; Times: 1
+	Query: "mappable:1 scientificname:Lampris guttatus" ; Times: 5
+	Query: "Anarhichas denticulatus" ; Times: 1
+	Query: "Myoxocephalus polyacanthocephalus" ; Times: 1
+	Query: "Radulinus asprellus" ; Times: 2
+	Query: "scientificname:Alopias vulpinus" ; Times: 2
+	Query: "scientificname:(Coregonus clupeaformis) country:United States mappable:1" ; Times: 1
+	Query: "genus:Coryphopterus" ; Times: 4
+	Query: "mappable:1 scientificname:Clupea harengus" ; Times: 1
+	Query: "scientificname:(Thymallus arcticus) country:United States mappable:1" ; Times: 1
+	Query: "Clupea harengus" ; Times: 3
+	Query: "Clinocottus analis" ; Times: 1
+	Query: "family:catostomidae hastissue:1" ; Times: 3
+	Query: "specificepithet:kisutch stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Anarrhichthys ocellatus" ; Times: 1
+	Query: "mappable:1 scientificname:Lagocephalus lagocephalus" ; Times: 2
+	Query: "Thymallus" ; Times: 2
+	Query: "Clupea pallasii" ; Times: 1
+	Query: "Dentex dentex" ; Times: 1
+	Query: "Myoxocephalus jaok" ; Times: 1
+	Query: "Lampris guttatus mappable:1" ; Times: 1
+	Query: "Aptocyclus ventricosus" ; Times: 1
+	Query: "Prionace glauca mappable:1" ; Times: 1
+	Query: "vntype:specimen family:catostomidae hastissue:1" ; Times: 1
+	Query: "mappable:1 scientificname:Citharichthys sordidus" ; Times: 1
+	Query: "specificepithet:macropus haslength:1" ; Times: 1
+	Query: "moles" ; Times: 1
+	Query: "Enophrys diceraus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1521 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
