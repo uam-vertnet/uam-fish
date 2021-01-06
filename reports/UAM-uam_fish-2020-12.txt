@@ -1,0 +1,83 @@
+Report for Institution Code UAM, Resource uam_fish
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 44
+Number of records retrieved in searches: 598
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: United Kingdom ; Times: 7
+	Country: France ; Times: 27
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 11
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-03 ; Times: 4
+	Date: 2020-12-09 ; Times: 2
+	Date: 2020-12-08 ; Times: 2
+	Date: 2020-12-04 ; Times: 8
+	Date: 2020-12-14 ; Times: 7
+	Date: 2020-12-02 ; Times: 4
+	Date: 2020-12-01 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:Lampris guttatus" ; Times: 1
+	Query: "scientificname:Trachurus trachurus" ; Times: 2
+	Query: "specificepithet:purpurescens genus:Anoplarchus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scientificname:Squalus acanthias" ; Times: 2
+	Query: "Oncorhynchus clarkii" ; Times: 1
+	Query: "Oncorhynchus nerka" ; Times: 1
+	Query: "specificepithet:phrictus genus:Psychrolutes" ; Times: 1
+	Query: "specificepithet:stenolepis genus:Hippoglossus" ; Times: 1
+	Query: "scientificname:Scomber japonicus" ; Times: 1
+	Query: "specificepithet:embryum genus:Clinocottus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Oncorhynchus gorbuscha" ; Times: 1
+	Query: "specificepithet:coheni genus:Thalassenchelys" ; Times: 1
+	Query: "scientificname:Argyropelecus olfersii" ; Times: 1
+	Query: "scientificname:Brama brama" ; Times: 2
+	Query: "scientificname:Lagocephalus lagocephalus" ; Times: 4
+	Query: "Merluccius productus" ; Times: 1
+	Query: "scientificname:Alopias vulpinus" ; Times: 1
+	Query: "specificepithet:rimensis genus:Oligocottus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scientificname:Dentex dentex" ; Times: 2
+	Query: "genus:Phytichthys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scientificname:Prionace glauca" ; Times: 1
+	Query: "scientificname:Carcharodon carcharias" ; Times: 1
+	Query: "Anarrhichthys ocellatus" ; Times: 1
+	Query: "scientificname:Merluccius merluccius" ; Times: 3
+	Query: "scientificname:Liparis montagui" ; Times: 1
+	Query: "scientificname:Sphyraena sphyraena" ; Times: 1
+	Query: "Oncorhynchus keta" ; Times: 1
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "specificepithet:melanops genus:Sebastes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "scientificname:Limanda limanda" ; Times: 2
+	Query: "Osmerus eperlanus" ; Times: 1
+	Query: "scientificname:Clupea harengus" ; Times: 2
+	Query: "Thunnus orientalis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 705 download events in this period)
+Total number of records downloaded: 232
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: India ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-02 ; Times: 1
+	Date: 2020-12-30 ; Times: 1
+	Date: 2020-12-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Woodpecker" ; Times: 1
+	Query: "hastissue:1" ; Times: 1
+	Query: "vntype:specimen year &gt;= 1990 year &lt;= 2020 hastissue:1" ; Times: 1
+
+
+End of report.
